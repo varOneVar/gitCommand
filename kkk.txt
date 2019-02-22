@@ -19,7 +19,11 @@ new line add two
 new line add three
 
 new
+<<<<<<< HEAD
 sadassdasdasdsasadfdsfdsfdsfd
+=======
+dasdasdasdasdasdadas
+>>>>>>> lll
 adadas
 
 saadasadasdasdasdasdasas
