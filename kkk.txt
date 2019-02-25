@@ -1,2 +1,4 @@
 kkk.text
-oooo
+stash
+not add
+
