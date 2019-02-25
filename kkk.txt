@@ -1,16 +1,5 @@
-ine add one
+ne add one
 
 new line add two
 
-new line add three
-
-new
-<<<<<<< HEAD
-sadassdasdasdsasadfdsfdsfdsfd
-=======
-dasdasdasdasdasdadas
->>>>>>> lll
-adadas
-
-saadasadasdasdasdasdasas
->>>>>>> xxx3
+new line add thr>>>>>>> xxx3
